@@ -1,5 +1,4 @@
 node_modules/
-lib/
 demo/index.compiled.js
 
 # yarn berry
